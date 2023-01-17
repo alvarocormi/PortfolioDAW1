@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss verson="2.0">
+    <!-- CANAL -->
+    <channel>
+        <!-- Elementos obligatorios de la etiqueta channel -->
+        <title>Pratica 02 - Alvaro Cordero (HomePage)</title>
+        <link>http://192.168.2.114</link>
+        <description>Ultimas noticias de mis tareas en Lenguage de Marcas</description>
+        <!-- Elementos opcionales-->
+        <language>es-es</language>
+        <category>Noticias El Pais</category>
+        <copyright>2023 Alvaro Cordero. All right reserved</copyright>
+        <lastBuildDate>Martes, 10 Enero 2023 19:26</lastBuildDate>
+        <pubDate>10/01/2023 19:30</pubDate>
+        <skipDays>
+            <day>Friday</day>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>00:00</hour>
+            <hour>01:00</hour>
+            <hour>02:00</hour>
+            <hour>03:00</hour>
+            <hour>05:00</hour>
+            <hour>05:00</hour>
+            <hour>06:00</hour>
+            <hour>07:00</hour>
+            <hour>08:00</hour>
+        </skipHours>
+        <image>
+            <link>http://192.168.2.114/</link>
+            <title>Pratica 02 - Alvaro Cordero (HomePage)</title>
+            <url>http://192.168.2.114/_UD3/img/12.png</url>
+            <description>Imagen fondo de background de mi pagina web</description>
+            <height>42</height>
+            <width>116</width>
+        </image>
+        <!-- ARTICULO DEL CANAL -->
+        <!-- Elemento variable (Puedes incluir esta etiqueta si lo cress conveniente)-->
+        <item>
+            <title>Practica de Horarios con HTML en Lenguage de Marcas</title>
+            <link>http://192.168.2.114/_UD2/02/ud2Actividad2_AlvaroCordero/index.html</link>
+            <category>HTML</category>
+            <pubdate>09/12/2022 16:00</pubdate>
+            <enclosure url="http://192.168.2.114/_UD3/img/12.png" length="67" type="png" />
+            <description>En esta tarea he estado practicando y entrenando mis habilidades con las etiquetas de HTML</description>
+        </item>
+        <item>
+            <title>Practica de posicionamiento en CSS</title>
+            <link>G:\Mi unidad\daw1\ifar\2223_LMGSI_AlvaroCordero\_UD2\09\ud01Actividad1_AlvaroCordero\index.html</link>
+            <category>CSS</category>
+            <pubdate>10/01/2023 19:00</pubdate>
+            <description><![CDATA[<p>Posicionamiento CSS</p>]]></description>
+        </item>
+        <item>
+            <title>Formularios en HTML</title>
+            <link>G:\Mi unidad\daw1\ifar\2223_LMGSI_AlvaroCordero\_UD2\03\ud2Actividad3_AlvaroCordero\index.html</link>
+            <category>HTML</category>
+            <pubdate>09/12/2022 16:00</pubdate>
+            <description>Aprender a usar los formularios a su vez de entenderel funcionamiento de los IDS</description>
+        </item>
+    </channel>
+</rss>

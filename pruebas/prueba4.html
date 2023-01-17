@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba4 Formulario</title>
+</head>
+<body>
+	<main>
+		<header>
+			<h1>Formularios</h1>
+		</header>
+		<form method="get" action="#alta.php">
+			<fieldset>
+				<legend>Datos personales</legend>
+				<div>
+					<label for="nombre">Nombre:</label>
+					<input type="text" id="nombre">
+				</div><br>
+				<div>
+					<label for="apellido">Apellido:</label>
+					<input type="text" id="apellido">
+				</div><br>
+			</fieldset><br>
+			<fieldset>
+				<legend>Estudios de grado superior</legend>
+				<div>
+					<input type="radio" id="DAW" name="tamaño" checked>
+					<label for="nombre">DAW</label>
+				</div>
+				<div>
+					<input type="radio" id="DAM" name="tamaño">
+					<label for="apellido">DAM</label>				
+				</div>
+				<div>
+					<input type="radio" id="ASIR" name="tamaño">
+					<label for="apellido">ASIR</label>				
+				</div>
+			</fieldset><br>
+			<fieldset>
+				<legend>Uso de la checkbox</legend>
+				<div>
+					<label for="nombre">Modulo 1</label>
+					<input type="checkbox" id="Modulo1" name="nombreboton">
+				</div>
+				<div>
+					<label for="modulo2">Modulo 2</label>	
+					<input type="checkbox" id="Modulo2" name="nombreboton2">
+				</div>
+				<div>
+					<label for="modulo3">Modulo 3</label>
+					<input type="checkbox" id="Modulo3" name="nombreboton3">						
+				</div>
+			</fieldset>	<br>
+			<input type="submit" value="Enviar">
+		</form>
+	</main>
+</body>
+</html>
