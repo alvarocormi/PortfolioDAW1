@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grupo>
+    <estudiante>
+        <nombre></nombre>
+        <codigo id="1"></codigo>
+        <tutores>
+            <tutor1 idref="1"></tutor1>
+            <tutor2 idref="1"></tutor2>
+        </tutores>
+    </estudiante>
+    <estudiante>
+        <nombre></nombre>
+        <codigo id="2"></codigo>
+        <tutores>
+            <tutor1 idref="2"></tutor1>
+            <tutor2 idref="2"></tutor2>
+        </tutores>
+    </estudiante>
+</grupo>

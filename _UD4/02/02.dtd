@@ -1,0 +1,2 @@
+<!ENTITY mundo (linea+)>
+<!ENTITY linea (continente,pais,capital)>

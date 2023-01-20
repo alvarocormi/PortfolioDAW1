@@ -93,7 +93,7 @@ a {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-image: url("img/12.png");
+    background-image: url("/webroot/img/12.png");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -140,7 +140,7 @@ a {
 .portfolio {
     padding-top: 15px;
     color: white;
-    background-image: url("img/12copia.png");
+    background-image: url("/webroot/img/12copia.png");
     background-size: cover;
     background-position: center;
 }

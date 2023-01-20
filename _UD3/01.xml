@@ -39,14 +39,14 @@
         <!-- ARTICULO DEL CANAL -->
         <!-- Elemento variable (Puedes incluir esta etiqueta si lo cress conveniente)-->
         <item>
-            <title>Titulo del articulo</title>
+            <title>El Pais españa</title>
             <link>https://elpais.com/espana/2023-01-11/candido-conde-pumpido-elegido-presidente-del-tribunal-constitucional.html</link>
             <guid>https://elpais.com/espana/2023-01-11/candido-conde-pumpido-elegido-presidente-del-tribunal-constitucional.html</guid>
             <author>correoelectronicoautor@gmail.com</author>
             <category>deportes</category>
             <pubdate>10/01/2023 19:00</pubdate>
             <enclosure url="http://www.w3ii.com/media/3d.wmv" length="78645" type="video/wmv" />
-            <description>Descripcion del articulo</description>
+            <description>El pais es una pagina web de informacion</description>
             <description><![CDATA[<h1>Hola mi nombre es Alvaro</h1><p>Descripcion usando la etiqueta p de HTML</p>]]></description>
             <source url="https://elpais.es">El Pais</source>
         </item>

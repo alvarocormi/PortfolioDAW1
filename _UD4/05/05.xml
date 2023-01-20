@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employe>
+        <firstName>Juan</firstName>
+        <lastName>Sanchez</lastName>
+        <contactNo>12345678</contactNo>
+        <email>juansanchez@company.com</email>
+        <address>
+            <city>Bangalore</city>
+            <state>Karnataka</state>
+            <zip>560212</zip>
+        </address>
+    </employe>
+</company>
