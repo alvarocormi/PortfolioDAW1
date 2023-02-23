@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curriculum SYSTEM "04.dtd">
 <curriculum>
     <nombre>Alvaro</nombre>
     <apellidos>Cordero</apellidos>
@@ -35,7 +36,8 @@
         <experiencia>
             <puesto>Puesto de trabajo 2</puesto>
             <empresa>Empresa2</empresa>
-            <anyoInicio>2022</anyoInicio>
+            <anyoInicio>2002</anyoInicio>
+            <anyoFinal>2022</anyoFinal>
         </experiencia>
     </contacto>
 </curriculum>
